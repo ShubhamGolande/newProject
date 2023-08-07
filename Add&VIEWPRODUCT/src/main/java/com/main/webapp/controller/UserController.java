@@ -31,4 +31,10 @@ public class UserController {
 		return users;
 		
 	}
+	
+	public String change()
+	{
+		
+		return "change valid";
+	}
 }
